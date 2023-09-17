@@ -20,15 +20,15 @@ const contact = () => {
 
           <article className='contact__option'>
             <MdOutlineEmail className='contact__option-icon'/>
-            <h4>Email</h4>
-            <h5>mruthvikkumar@gmail.com</h5>
+            <h4>Text</h4>
+            <h5>+1 682-358-XXXX</h5>
             <a href="mailto:mruthvikkumar@gmail.com" target="_blank" rel="noreferrer">Send a message</a>
           </article>
 
           <article className='contact__option'>
             <MdOutlineEmail className='contact__option-icon'/>
-            <h4>Email</h4>
-            <h5>mruthvikkumar@gmail.com</h5>
+            <h4>FaceBook</h4>
+            <h5>M Ruthvik</h5>
             <a href="mailto:mruthvikkumar@gmail.com" target="_blank" rel="noreferrer">Send a message</a>
           </article>
         </div>
