@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/ruthvikmyadam/static/css/main.cf8fed28.css",
-    "main.js": "/ruthvikmyadam/static/js/main.78dc63fe.js",
+    "main.js": "/ruthvikmyadam/static/js/main.ac2fe668.js",
     "static/media/Ruthvik.png": "/ruthvikmyadam/static/media/Ruthvik.c44c4d82ce43c64209ec.png",
     "static/media/CVR.png": "/ruthvikmyadam/static/media/CVR.68b245a7a78d30678d59.png",
     "static/media/UTA.png": "/ruthvikmyadam/static/media/UTA.998b065163fdb20a1205.png",
@@ -9,10 +9,10 @@
     "static/media/Resume_Ruthvik.pdf": "/ruthvikmyadam/static/media/Resume_Ruthvik.282ea95cae2c92c413f2.pdf",
     "index.html": "/ruthvikmyadam/index.html",
     "main.cf8fed28.css.map": "/ruthvikmyadam/static/css/main.cf8fed28.css.map",
-    "main.78dc63fe.js.map": "/ruthvikmyadam/static/js/main.78dc63fe.js.map"
+    "main.ac2fe668.js.map": "/ruthvikmyadam/static/js/main.ac2fe668.js.map"
   },
   "entrypoints": [
     "static/css/main.cf8fed28.css",
-    "static/js/main.78dc63fe.js"
+    "static/js/main.ac2fe668.js"
   ]
 }
