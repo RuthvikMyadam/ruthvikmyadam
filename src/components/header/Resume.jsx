@@ -1,5 +1,5 @@
 import React from 'react'
-import resume from '../../assets/Resume_Ruthvik.pdf'
+import resume from '../../assets/Resume_1.pdf'
 
 const Resume = () => {
   return (

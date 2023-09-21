@@ -19,9 +19,12 @@ const Experience = () => {
               </div><br></br>
             </article>
 
-            <p>Develop and Maintain the NetIdss portal for the university.</p>
-            <p>Contributed on the Multi-Factor Athentication module for a 2 step verfication to access University Portals.</p>
-            <p>Engaging in comprehensive analysis of prevalent issues as an integral facet of the Data Analysis for the Insight and Special Projects Team. This endeavor serves as the bedrock for conceiving optimized solutions</p>
+            <p>Contributed to the UTA Org Chart feature, concentrating on the presentation of employee hierarchy within the admin portal. The data was
+               stored in a structured format, extracted from the database and subsequently transformed to facilitate front-end rendering.</p>
+
+            <p>Engaging in comprehensive analysis of prevalent issues as an integral facet of the Data Analysis for the Insight and Special Projects Team. 
+               This endeavor serves as the bedrock for conceiving optimized solutions</p>
+
             <p>Assist Students, Staff and Faculty on technical issues by troubleshooting them.</p>
           </div>
         </div>
@@ -31,11 +34,11 @@ const Experience = () => {
             <article className='experience__details'>
               <BsPatchCheckFill className='experience__details-icon'/>
               <div>
-              <h4>Full Stack Developer</h4>
+              <h4>Software Engineer</h4>
               </div>
             </article>
-            <p>Restructured the web code base from MVC to layered architecture using SpringBoot Core and implemented REST APIs using dependency injection, reducing the complexity of service contracts.</p>
-            <p>Developed and implemented an application using React libraries, leveraging React Hooks and Redux, to streamline quarterly employee time stamp tracking and performance evaluation processes.</p>
+            <p>Architectured the web code base from MVC to layered architecture using SpringBoot Core and implemented REST APIs using dependency injection, reducing the complexity of service contracts and increasing development efficiency by 30%.</p>
+            <p>Developed and implemented an application using React libraries, leveraging React Hooks and Redux, to streamline quarterly employee time stamp tracking and performance evaluation processes</p>
             <p>Utilized Microsoft SQL Server Management Studio to assign values to evaluation inputs, which were then calculated to provide real-time performance feedback for employees.</p>
           </div>
         </div>

@@ -16,37 +16,37 @@ const about = () => {
 
         <div className='about__content'>
           <p>
-          I stand as an adept and forward-looking Master's candidate, immersing myself in the realm of Computer Science with an exclusive concentration in the intricate domains of 
-          Big Data and Intelligent Systems. My academic voyage, marked by dedication and acumen, culminates in December 2023 at the distinguished University of Texas at Arlington—an 
-          institution renowned for its commitment to cutting-edge technological education.</p><br></br>
-
-          <p>
-          My professional journey unfolds with three enriching years as a Full-Stack Developer at Wipro Technologies, an esteemed technology powerhouse situated in India. In this role, 
-          I navigated the complex landscape of software engineering, honing a comprehensive skill set that spans the entire spectrum of development, from front-end intricacies to back-end finesse. 
-          My tenure there was characterized by the creation of robust and scalable solutions that transcended conventional paradigms, setting the stage for innovative digital transformations.
+          I'm currently pursuing a Master's degree in Computer Science, with a specialized focus on Big Data and Intelligent Systems, 
+          and I'm on track to complete my program in December 2023 at the esteemed University of Texas at Arlington. Throughout my academic 
+          journey, I've dedicated myself to mastering the intricacies of this ever-evolving field.
           </p><br></br>
 
           <p>
-          Presently, I extend my influence as a diligent Student Assistant within the Office of Information Technology—a vantage point from which I expertly troubleshoot and resolve an array of 
-          challenges faced by students, faculty, and staff. My focus converges on the intricate choreography of elevating the University's digital footprint. This involves the orchestration of 
-          website development and meticulous maintenance, culminating in a harmonious fusion of design aesthetics and streamlined functionality. 
+          My professional background spans three enriching years as a Software Engineer at Wipro Technologies, a renowned technology 
+          powerhouse based in India. During this pivotal period, I navigated the challenging world of software engineering, sharpening 
+          my skills across the entire development spectrum. This includes working on both the user interface and the back-end 
+          technical aspects. I've had the privilege of creating strong and adaptable solutions that go beyond the usual ways of doing things. This 
+          experience has not only improved my technical skills but also set the stage for creative digital changes.
           </p><br></br>
 
           <p>
-          My technological fervor finds a formidable outlet in 
-          the art of crafting new-age applications that transcend the ordinary, offering pragmatic solutions that resonate with users on a profound level. This passion is intricately interwoven with 
-          my creative persona, where I channel my artistic prowess into visually captivating creations that transcend the boundaries of imagination.
+          Currently, my journey has led me to a role as a diligent Student Assistant within the Office of Information Technology. Here, I find 
+          myself at the forefront of troubleshooting and resolving an array of challenges faced by students, faculty, and staff. My main goal is 
+          to enhance how the University web page is seen and engaged online. This involves website development and maintenance, 
+          resulting in a balance of great design and smooth operation.
           </p><br></br>
 
           <p>
-          Beyond the confines of technology, I am an impassioned maestro in the realm of artistic expression. My love for visual artistry finds resonance in my endeavors as an adept creator and illustrator.
-          Furthermore, I ascend to the pinnacle of musical achievement as a state-level vocalist, basking in the glory of multiple victories in State-level music competitions.
-          </p><br></br>
-
-          <p>
-          In summation, my journey—a symphony composed of technological innovation, creative ingenuity, and artistic virtuosity—holds the potential to influence diverse realms, painting a canvas of multidimensional 
-          proficiency poised to make transformative contributions.
+          Beyond my tech interests, I'm passionate about art. I love creating and illustrating visual art, and I'm also a state-level vocalist with 
+          several wins in music competitions. In essence, I bring a blend of tech skills and artistic talent, which I believe can make a positive impact 
+          in various domains.
         </p>
+
+        <br></br><br></br><br></br><br></br>
+        <p>
+          " Life is short. Make your online portfolio long and impressive! "
+        </p>
+        <p>- Computer </p>
         </div>
       </div>
     </section>
