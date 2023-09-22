@@ -22,7 +22,7 @@
 
     --container-width-lg: 75%;
     --container-width-md: 86%;
-    --container-width-ms: 90%;
+    --container-width-ms: 80%;
 }
 
 html{
@@ -133,6 +133,18 @@ img{
     }
 
     section > h2{
-        margin-bottom: 2rem;
+        margin-bottom: 1rem;
+    }
+
+    .experience{
+        margin-top: 56rem;
+    }
+
+    .testimonials{
+        margin-top: 56rem;
+    }
+
+    .about {
+        margin-top: 4rem;
     }
 }

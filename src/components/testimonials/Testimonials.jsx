@@ -37,6 +37,7 @@ const data = [
 
 const Testimonials = () => {
   return (
+    <div className='testimonials'>
     <section id='testimonials'>
       <h2>Education</h2>
 
@@ -64,6 +65,7 @@ const Testimonials = () => {
         }
       </div>
     </section>
+    </div>
   )
 }
 
