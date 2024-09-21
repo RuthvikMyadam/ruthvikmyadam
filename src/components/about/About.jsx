@@ -1,57 +1,43 @@
-import React from 'react'
-import './about.css'
-// import Ruthvik from '../../assets/about.png'
+import React from 'react';
+import './about.css';
+// import Ruthvik from '../../assets/about.png';
 
-const about = () => {
+const About = () => {
   return (
     <div className='about'>
-    <section id='about'>
-      <h2>About Me</h2>
+      <section id='about'>
+        <h2>About Me</h2>
 
-      <div className="container about__container">
-        <div className='about__me'>
-          <div className='about__me-image'>
-            {/* <img src={Ruthvik} alt="About Ruthvik" /> */}
+        <div className="container about__container">
+          <div className='about__me'>
+            <div className='about__me-image'>
+              {/* <img src={Ruthvik} alt="About Ruthvik" /> */}
+            </div>
+          </div>
+
+          <div className='about__content'>
+            <p>
+              I completed my Master’s in Computer Science with a focus on Big Data and Intelligent Systems at the University 
+              of Texas at Arlington in December 2023. I have three years of experience as a Software Engineer at Wipro Technologies 
+              in India, where I developed both user interfaces and back-end solutions. I also worked as a Student Assistant in 
+              the Office of Information Technology, enhancing the university’s web presence through website development and maintenance. 
+              Additionally, I’m passionate about visual art and am a state-level vocalist with several music competition wins.
+            </p>
+            <br></br>
+            <p>Currently working as a Full Stack Developer, I develop and maintain dynamic web applications using React and Java/J2EE 
+              with Spring Boot, while implementing scalable microservices and optimizing databases on AWS. I actively participate in Agile 
+              processes to ensure efficient delivery of features and improvements.
+            </p>
+            <br></br>
+            <p>
+              "Life is short. Make your online portfolio long and impressive!"
+            </p>
+            <p>- Computer</p>
           </div>
         </div>
-
-        <div className='about__content'>
-          <p>
-          I completed a Master's degree in Computer Science with a specialized focus on Big Data and Intelligent Systems at the esteemed University 
-          of Texas at Arlington in December 2023. Throughout my academic journey, I dedicated myself to mastering the intricacies of this ever-evolving field.
-          </p><br></br>
-
-          <p>
-          My professional background spans three enriching years as a Software Engineer at Wipro Technologies, a renowned technology 
-          powerhouse based in India. During this pivotal period, I navigated the challenging world of software engineering, sharpening 
-          my skills across the entire development spectrum. This includes working on both the user interface and the back-end 
-          technical aspects. I've had the privilege of creating strong and adaptable solutions that go beyond the usual ways of doing things. This 
-          experience has not only improved my technical skills but also set the stage for creative digital changes.
-          </p><br></br>
-
-          <p>
-          Currently, my journey has led me to a role as a diligent Student Assistant within the Office of Information Technology. Here, I find 
-          myself at the forefront of troubleshooting and resolving an array of challenges faced by students, faculty, and staff. My main goal is 
-          to enhance how the University web page is seen and engaged online. This involves website development and maintenance, 
-          resulting in a balance of great design and smooth operation.
-          </p><br></br>
-
-          <p>
-          Beyond my tech interests, I'm passionate about art. I love creating and illustrating visual art, and I'm also a state-level vocalist with 
-          several wins in music competitions. In essence, I bring a blend of tech skills and artistic talent, which I believe can make a positive impact 
-          in various domains.
-        </p>
-
-        <br></br><br></br><br></br><br></br>
-        <p>
-          " Life is short. Make your online portfolio long and impressive! "
-        </p>
-        <p>- Computer </p>
-        </div>
-      </div>
-    </section>
+      </section>
     </div>
-  )
+  );
 }
 
-export default about
+export default About;

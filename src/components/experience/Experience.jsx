@@ -20,13 +20,13 @@ const Experience = () => {
               </div><br></br>
             </article>
 
-            <p>Contributed to the UTA Org Chart feature, concentrating on the presentation of employee hierarchy within the admin portal. The data was
-               stored in a structured format, extracted from the database and subsequently transformed to facilitate front-end rendering.</p>
+            <p>I contributed to the UTA Org Chart feature, enhancing the presentation of employee 
+              hierarchy in the admin portal by ensuring structured data extraction and transformation 
+              for front-end rendering. Additionally, I analyze issues for the Insight and Special Projects
+               Team to develop optimized solutions, assist students, staff, and faculty by troubleshooting 
+               technical problems, and actively participate in team meetings to improve project workflows and 
+               communication.</p>
 
-            <p>Engaging in comprehensive analysis of prevalent issues as an integral facet of the Data Analysis for the Insight and Special Projects Team. 
-               This endeavor serves as the bedrock for conceiving optimized solutions</p>
-
-            <p>Assist Students, Staff and Faculty on technical issues by troubleshooting them.</p>
           </div>
         </div>
         <div className='exerience__Wipro'>
@@ -38,9 +38,12 @@ const Experience = () => {
               <h4>Software Engineer</h4>
               </div>
             </article>
-            <p>Architectured the web code base from MVC to layered architecture using SpringBoot Core and implemented REST APIs using dependency injection, reducing the complexity of service contracts and increasing development efficiency by 30%.</p>
-            <p>Developed and implemented an application using React libraries, leveraging React Hooks and Redux, to streamline quarterly employee time stamp tracking and performance evaluation processes</p>
-            <p>Utilized Microsoft SQL Server Management Studio to assign values to evaluation inputs, which were then calculated to provide real-time performance feedback for employees.</p>
+            <p>I worked on the Performance Evaluation and Occupational Information module in a 
+              Java Spring MVC Employee Information System, utilizing React and libraries like 
+              React Hooks and Redux for dynamic UI components. I restructured the code from MVC 
+              to a layered architecture with Spring Boot Core, developed REST APIs using dependency 
+              injection, and ensured data integrity through SQL database management. Applied Agile 
+              methodologies for efficient software delivery and using GIT for version control.</p>
           </div>
         </div>
       </div>
