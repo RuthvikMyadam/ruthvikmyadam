@@ -30,7 +30,7 @@ const About = () => {
             </p>
             <br></br>
             <p>
-              "Life is short. Make your online portfolio long and impressive!"
+              "Life is short. Make your online portfolio long and impressive! :D"
             </p>
             <p>- Computer</p>
           </div>
