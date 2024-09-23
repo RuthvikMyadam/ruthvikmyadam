@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/ruthvikmyadam/static/css/main.e123f368.css",
+    "main.js": "/ruthvikmyadam/static/js/main.8becd41d.js",
+    "static/media/Ruthvik.png": "/ruthvikmyadam/static/media/Ruthvik.c44c4d82ce43c64209ec.png",
+    "static/media/UTA.png": "/ruthvikmyadam/static/media/UTA.998b065163fdb20a1205.png",
+    "static/media/Resume_2.pdf": "/ruthvikmyadam/static/media/Resume_2.a04254ff27e16a0e773c.pdf",
+    "index.html": "/ruthvikmyadam/index.html",
+    "main.e123f368.css.map": "/ruthvikmyadam/static/css/main.e123f368.css.map",
+    "main.8becd41d.js.map": "/ruthvikmyadam/static/js/main.8becd41d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e123f368.css",
+    "static/js/main.8becd41d.js"
+  ]
+}
