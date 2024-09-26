@@ -1,4 +1,4 @@
-### Copy & Paste this in a new tab on your browser: https://ruthvikmyadam.github.io/ruthvikmyadam/
+### Checkout my Portfolio Website: https://ruthvikmyadam.github.io/ruthvikmyadam/
 
 # Welcome to my GitHub Page, fellow Engineer!
 
