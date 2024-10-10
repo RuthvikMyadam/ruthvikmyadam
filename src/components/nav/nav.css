@@ -1,4 +1,5 @@
-nav{
+/* General nav styles */
+nav {
     background: rgba(179, 179, 179, 0.3);
     width: max-content;
     display: block;
@@ -11,17 +12,22 @@ nav{
     display: flex;
     gap: 1.2rem;
     backdrop-filter: blur(15px);
+    border-radius: 50px;
 }
 
-nav a{
+nav a {
     background: transparent;
-    padding: 1.5rem;
+    padding: 0.8rem;
     display: flex;
+    align-items: center;
+    justify-content: center;
     color: var(--color-light);
     font-size: 1.3rem;
+    border-radius: 50%;
+    transition: background 0.3s ease;
 }
 
-nav a:hover{
+nav a:hover {
     background: rgba(0, 0, 0, 0.3);
 }
 
@@ -30,36 +36,32 @@ nav a.active {
     color: var(--color-bg);
 }
 
-@media screen and (max-width: 600px){
-    nav{
+@media screen and (max-width: 600px) {
+    nav {
         background: rgba(179, 179, 179, 0.3);
         width: max-content;
-        display: block;
-        padding: 0.5rem 0.6rem;
+        padding: 0.4rem 0.6rem;
         z-index: 2;
-        position: fixed;
         left: 50%;
         transform: translate(-50%);
-        bottom: 2rem;
+        bottom: 1.5rem;
         display: flex;
-        gap: 0.5rem;
+        gap: 0.8rem;
         backdrop-filter: blur(15px);
     }
-    
-    nav a{
-        background: transparent;
-        padding: 1.5rem;
-        display: flex;
-        color: var(--color-light);
-        font-size: 1.0rem;
+
+    nav a {
+        padding: 0.7rem;
+        font-size: 1.1rem;
+        border-radius: 50%;
     }
-    
-    nav a:hover{
-        background: rgba(0, 0, 0, 0.3);
-    }
-    
+
     nav a.active {
         background: var(--color-primary);
         color: var(--color-bg);
+    }
+
+    nav a:hover {
+        background: rgba(0, 0, 0, 0.4);
     }
 }
