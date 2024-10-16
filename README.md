@@ -5,7 +5,7 @@ I have worked on diverse applications from Front-end to Backend.
 
 Feel free to explore, clone, and suggest improvements.
 
-***Fun Fact:*** Why do programmers prefer dark mode? Because the bugs can’t hide in the light!!
+***Fun Fact:*** Why do programmers prefer dark mode? Because the bugs can’t hide in the light!
 
 ### Checkout my Portfolio Website: https://ruthvikmyadam.github.io/ruthvikmyadam/
 
