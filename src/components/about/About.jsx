@@ -17,18 +17,23 @@ const About = () => {
 
           <div className='about__content'>
             <p>
-              I completed my Master’s in Computer Science with a focus on Big Data and Intelligent Systems at the University 
-              of Texas at Arlington in December 2023. I have three years of experience as a Software Engineer at Wipro Technologies 
-              in India, where I developed both user interfaces and back-end solutions. I also worked as a Student Assistant in 
-              the Office of Information Technology, enhancing the university’s web presence through website development and maintenance. 
-              Additionally, I’m passionate about visual art and am a state-level vocalist with several music competition wins.
+            I’m a Software Engineer with 4 years of experience delivering scalable, high-performance software solutions across enterprise 
+            and government sectors. My background spans full-stack development using Java, React, Node.js, and Spring Boot, with strong 
+            expertise in building microservices, automating QA processes, and optimizing cloud-based deployments on AWS. At the State of Nevada, 
+            I engineered end-to-end automation platforms and reporting tools that significantly improved testing efficiency and data operations.
             </p>
             <br></br>
-            <p>Currently working as a Full Stack Developer, I develop and maintain dynamic web applications using React and Java/J2EE 
-              with Spring Boot, while implementing scalable microservices and optimizing databases on AWS. I actively participate in Agile 
-              processes to ensure efficient delivery of features and improvements.
+            <p>Earlier at Wipro Technologies, I contributed to modernizing legacy systems and enhancing user experience with robust front-end 
+              interfaces. While pursuing my Master’s in Computer and Information Science at the University of Texas at Arlington, I also worked 
+              as a Student Assistant in the Office of Information Technology, where I rebuilt internal tools like the UTA Org Chart and translated 
+              complex datasets into interactive visual components.
             </p>
             <br></br>
+            <p>
+            I’m passionate about clean architecture, performance tuning, and collaborative software development—and outside the tech world, I’m a 
+            state-level vocalist and visual arts enthusiast.
+            </p>
+            <br></br><br></br>
             <p>
               "Life is short. Make your online portfolio long and impressive! :D"
             </p>
